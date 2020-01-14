@@ -41,7 +41,7 @@ $body-color: #111;
 
 ## Default theme colors
 
-The default them colors defined in the Bootstrap v4.4 SCSS are as follows:
+The default theme colors defined in the Bootstrap v4.4 SCSS are as follows:
 
 <div class="row">
   <div class="col-md-4">
